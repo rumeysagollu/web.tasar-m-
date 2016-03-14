@@ -1,0 +1,33 @@
+h1 {
+    font-family: cursive;
+    font font-size: 200%;
+    color:brown;
+}
+
+h2 {
+    font-family: cursive;
+    font font-size: 200%;
+    color:brown;
+    
+}
+p> a:link, a:visited{
+    font font-size: 100%;
+    color:brown;
+}
+
+p, ul, ol {
+    color:black;
+     font font-size: 200%;
+}
+
+a:link, a:visited{
+    
+    font-family: cursive;
+    color:brown;
+    background-color:blanchedalmond;
+    padding:1px 1px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+     
